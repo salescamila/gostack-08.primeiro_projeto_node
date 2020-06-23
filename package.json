@@ -1,0 +1,15 @@
+{
+  "name": "08.primeiro_projeto_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/salescamila/gostack-08.primeiro_projeto_node.git",
+  "author": "Camila <salescamila1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "typescript": "^3.9.5"
+  }
+}
