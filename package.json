@@ -20,7 +20,7 @@
     "eslint-plugin-jsx-a11y": "^6.3.0",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "uuidv4": "^6.1.0"
   },
   "devDependencies": {
